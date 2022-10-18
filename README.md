@@ -1,1 +1,1 @@
-# vaja3_ADC_pretvorba
+# Vaja3-ADC-trigger-timer-conversion-STM32F4
